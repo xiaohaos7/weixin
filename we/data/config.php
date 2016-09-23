@@ -3,11 +3,11 @@ defined('IN_IA') or exit('Access Denied');
 
 $config = array();
 
-$config['db']['master']['host'] = 'umMk9E5QyY3nvurs:pPWpKujJUZ2LDTl94';
-$config['db']['master']['username'] = 'umMk9E5QyY3nvurs';
-$config['db']['master']['password'] = 'pPWpKujJUZ2LDTl94';
+$config['db']['master']['host'] = 'xiaohaos7.gotoftp1.com';
+$config['db']['master']['username'] = 'xiaohaos7';
+$config['db']['master']['password'] = 'zp198526';
 $config['db']['master']['port'] = '3306';
-$config['db']['master']['database'] = 'fDbGxYsJehPSd16m';
+$config['db']['master']['database'] = 'xiaohaos7';
 $config['db']['master']['charset'] = 'utf8';
 $config['db']['master']['pconnect'] = 0;
 $config['db']['master']['tablepre'] = 'ims_';
